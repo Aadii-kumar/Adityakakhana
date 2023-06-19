@@ -6,4 +6,5 @@
 
 ### Deployment : [HERE](https://ansh-chaturmohta.github.io/AnshKaKhaanaa)
 
-#### Author : Ansh Chaturmohta
+#### Author : Aditya kumar
+
